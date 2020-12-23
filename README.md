@@ -11,7 +11,7 @@ ___________
 
 ![](https://github.com/igvaori/algebra-geometria/blob/master/IMPRENTA/muestra.jpg?raw=true)
 
-El libro, en sus más de 500 páginas, recoge el temario de álgebra y geometría de matemáticas de segundo de bachillerato. Incluye temas de ampliación para alumnos que deseen o necesiten para sus futuros estudios mayor bagage matemático. Consta de numerosos ejemplos, ejercicios resueltos y propuestos con solución.
+El libro, en sus más de 500 páginas, recoge el temario de álgebra y geometría de matemáticas de segundo de bachillerato. Incluye temas de ampliación para alumnos que deseen o necesiten para sus futuros estudios mayor bagaje matemático. Consta de numerosos ejemplos, ejercicios resueltos y propuestos con solución.
 
 Descárgate el libro en A-5 [aquí](https://github.com/igvaori/algebra-geometria/raw/master/ALGEBRA-LINEAL-Y-GEOMETRIA-A5.pdf?raw=true)
 
