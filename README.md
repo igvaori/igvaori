@@ -18,7 +18,7 @@ Si quieres descargarte las fuentes, click [aquí](https://github.com/igvaori/alg
 
 __________
 
-**Cálculo Infinitesimal (avanzado) para Bachillerato.**
+## Cálculo Infinitesimal (avanzado) para Bachillerato.
 
 ![](https://github.com/igvaori/calculo-infinitesimal/blob/master/IMPRENTA/muestra.jpg)
 
@@ -26,7 +26,7 @@ El libro recoge el temario actual de matemáticas de ciencias en su parte de Cá
 
 Descárgate el libro en A-4 [aquí](https://github.com/igvaori/calculo-infinitesimal/blob/master/CalculoInfinitesinalNacho.pdf)
 
-Descárgate el libro en A-5 [aquí](https://github.com/igvaori/calculo-infinitesimal/blob/master/CalculoInfinitesinalNacho-A5.pdf)
+Descárgate el libro en A-5 [aquí](https://github.com/igvaori/calculo-infinitesimal/raw/master/CalculoInfinitesinalNacho-A5.pdf)
 
 Si quieres descargarte las fuentes, click [aquí](https://github.com/igvaori/calculo-infinitesimal)
 ____________
