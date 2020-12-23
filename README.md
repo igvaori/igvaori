@@ -24,7 +24,7 @@ __________
 
 El libro recoge el temario actual de matemáticas de ciencias en su parte de Cálculo Diferencial e Integral del último curso de bachillerato. Incluye algunos temas extras de interés para alumnos que vayan a cursas carreras que necesiten mayor contenido matemático.
 
-Descárgate el libro en A-4 [aquí](https://github.com/igvaori/calculo-infinitesimal/blob/master/CalculoInfinitesinalNacho.pdf)
+Descárgate el libro en A-4 [aquí](https://github.com/igvaori/calculo-infinitesimal/raw/master/CalculoInfinitesinalNacho.pdf)
 
 Descárgate el libro en A-5 [aquí](https://github.com/igvaori/calculo-infinitesimal/raw/master/CalculoInfinitesinalNacho-A5.pdf)
 
