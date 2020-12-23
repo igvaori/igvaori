@@ -8,7 +8,7 @@ ___________
 
 ## Álgebra Lineal y Geometría (avanzadas) para Bachillerato.
 
-!(https://github.com/igvaori/algebra-geometria/blob/master/IMPRENTA/muestra.jpg)
+![](https://github.com/igvaori/algebra-geometria/blob/master/IMPRENTA/muestra.jpg)
 
 El libro recoge el temario actual de matemáticas de ciencias en el último curso de bachillerato. Incluye algunos temas extras de interés para alumnos que vayan a cursas carreras que necesiten de mayor contenido matemático.
 
