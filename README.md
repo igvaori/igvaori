@@ -10,18 +10,28 @@ ___________
 
 ![](https://github.com/igvaori/algebra-geometria/blob/master/IMPRENTA/muestra.jpg)
 
-El libro recoge el temario actual de matemáticas de ciencias en el último curso de bachillerato. Incluye algunos temas extras de interés para alumnos que vayan a cursas carreras que necesiten de mayor contenido matemático.
+El libro recoge el temario actual de matemáticas de ciencias en su parte de Álgebra lineal y Geometría del último curso de bachillerato. Incluye algunos temas extras de interés para alumnos que vayan a cursas carreras que necesiten mayor contenido matemático.
 
-Descárgate el libro [aquí](https://github.com/igvaori/algebra-geometria/raw/master/ALGEBRA-LINEAL-Y-GEOMETRIA-A5.pdf)
+Descárgate el libro en A-5 [aquí](https://github.com/igvaori/algebra-geometria/raw/master/ALGEBRA-LINEAL-Y-GEOMETRIA-A5.pdf)
 
 Si quieres descargarte las fuentes, click [aquí](https://github.com/igvaori/algebra-geometria)
 
 
+**Cálculo Infinitesimal (avanzado) para Bachillerato.**
+
+!{}(https://github.com/igvaori/calculo-infinitesimal/blob/master/IMPRENTA/muestra.jpg)
+
+El libro recoge el temario actual de matemáticas de ciencias en su parte de Cálculo Diferencial e Integral del último curso de bachillerato. Incluye algunos temas extras de interés para alumnos que vayan a cursas carreras que necesiten mayor contenido matemático.
+
+Descárgate el libro en A-4 [aquí](https://github.com/igvaori/calculo-infinitesimal/blob/master/CalculoInfinitesinalNacho.pdf)
+
+Descárgate el libro en A-5 [aquí](https://github.com/igvaori/calculo-infinitesimal/blob/master/CalculoInfinitesinalNacho-A5.pdf)
+
+Si quieres descargarte las fuentes, click [aquí](https://github.com/igvaori/calculo-infinitesimal)
 ____________
 
 ## En breve
 
---- **Cálculo Infinitesimal (avanzado) para Bachillerato.**
 
 -- **Físca General**
 
