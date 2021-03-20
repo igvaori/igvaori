@@ -48,7 +48,7 @@ ____________
 
 # FÍSICA
 
-### Físca General 
+### Física General 
 
 
 ![](https://github.com/igvaori/Fisica-General/blob/master/IMPRENTA/portadafisicageneral.png?raw=true)
