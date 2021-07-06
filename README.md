@@ -55,7 +55,9 @@ El libro está hecho en latex A4 - 12pt pensado para su impresión en A5 o 17cm 
 
 Descárgate el libro en A-5 [aquí](https://github.com/igvaori/Estadistica/raw/master/PROBABILIDADyESTADISTICA-A4-comprimido.pdf?raw=true)
 
-[aquí](https://github.com/igvaori/Estadistica/blob/main/PROBABILIDADyESTADISTICA-A4-comprimido.pdf)
+Descárgate el libro en A-5[aquí](https://github.com/igvaori/Estadistica/blob/main/PROBABILIDADyESTADISTICA-A4-comprimido.pdf?raw=true)
+
+Descárgate el libro en A-5[aquí](https://github.com/igvaori/Estadistica/blob/main/PROBABILIDADyESTADISTICA-A4-comprimido.pdf)
 
 
 
