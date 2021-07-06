@@ -47,7 +47,8 @@ ____________
 
 ## Estadística (avanzada) para Bachillerato.
 
-![](https://github.com/igvaori/estadistica/blob/master/IMPRENTA/muestraF.jpg?raw=true)
+![](https://github.com/igvaori/Estadistica/blob/main/IMPRENTA/muestraF.jpg?raw=true)
+
 
 El libro, en sus  344 páginas, recoge el temario de estadística de matemáticas de segundo de bachillerato. Incluye apartados de ampliación para alumnos que deseen o necesiten para sus futuros estudios mayor bagaje matemático. Consta de numerosos ejemplos, ejercicios resueltos y propuestos con solución.
 
