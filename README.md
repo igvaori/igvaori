@@ -53,9 +53,9 @@ El libro, en sus  344 páginas, recoge el temario de estadística de matemática
 
 El libro está hecho en latex A4 - 12pt pensado para su impresión en A5 o 17cm x 24 cm.
 
-Descárgate el libro en A-5 [aquí](https://github.com/igvaori/estadistica/raw/master/PROBABILIDADyESTADISTICA-A4-comprimido.pdf?raw=true)
+Descárgate el libro en A-5 [aquí](https://github.com/igvaori/Estadistica/raw/master/PROBABILIDADyESTADISTICA-A4-comprimido.pdf?raw=true)
 
-Si quieres descargarte las fuentes, click [aquí](https://github.com/igvaori/estadistica)
+Si quieres descargarte las fuentes, click [aquí](https://github.com/igvaori/Estadistica)
 
 __________
 
