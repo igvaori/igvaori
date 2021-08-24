@@ -102,11 +102,14 @@ Si quieres descargarte las fuentes, click [aquí](https://github.com/igvaori/Fis
 
 ### Grupos de Lie (para físicos)
 
+![](https://github.com/igvaori/Grupos-de-Lie/blob/main/GuposDeLie.png?raw=true)
+
 Apuntes del video curso del mismo nombre de [Javier García](https://www.youtube.com/c/JavierGarcia110)
 
 Las fuentes, 4 documentos y uno de apéndices están en 'pages', de mac.
 
 Podéis descargar el pdf (4MB, din A-4) desde [aquí](https://github.com/igvaori/Grupos-de-Lie/blob/main/GRUPOS-DE-LIE.pdf?raw=true)
+
 
 
 
