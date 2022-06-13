@@ -79,6 +79,21 @@ __________
 
 ## Ampliación de Matemáticas: del Bachillerato a la Facultad.
 
+![](https://github.com/igvaori/precalculo/blob/main/precalc.png?raw=true)
+
+
+Este libro, en sus  440 páginas, contiene el temario de matemáticas para primero de bachillerato, Precálculo: Aritmética, Álgebra, Trigonometría y Complejos, Geometría Analitica y Cónicas.
+
+
+Descárgate el libro para imprimir en 17x24 [aquí](https://github.com/igvaori/precalculo/blob/main/!Precalculo-comprimido-24MB.pdf)
+
+
+Si quieres descargarte las fuentes, click [aquí](https://github.com/igvaori/precalculo)
+
+__________
+
+## Precálculo: matemáticas para primero de bachillerato.
+
 ![](https://github.com/igvaori/Amplia-Mates/blob/main/ampl-mates.png?raw=true)
 
 
